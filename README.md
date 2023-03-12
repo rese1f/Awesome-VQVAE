@@ -67,7 +67,7 @@ ICLR 2022. [[Paper](https://arxiv.org/abs/2106.08254)]
 *Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever* \
 ICML 2021. [[Paper](https://arxiv.org/abs/2102.12092)]
 
-**Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE**
+**Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE** \
 *Jialun Peng, Dong Liu, Songcen Xu, Houqiang Li* \
 CVPR 2021. [[Paper](https://arxiv.org/abs/2103.10022)]
 
