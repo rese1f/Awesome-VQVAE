@@ -18,12 +18,12 @@ A collection of resources and papers on Vector Quantized Variational Autoencoder
 
 **Understanding VQ-VAE (DALL-E Explained Pt. 1)** \
 *Charlie Snell* \
-[[Website]([link](https://ml.berkeley.edu/blog/posts/vq-vae/))] \
+[[Website](https://ml.berkeley.edu/blog/posts/vq-vae/)] \
 9 Feb 2021
 
 **How is it so good ? (DALL-E Explained Pt. 2)** \
 *Charlie Snell* \
-[[Website]([link](https://ml.berkeley.edu/blog/posts/dalle2/))] \
+[[Website](https://ml.berkeley.edu/blog/posts/dalle2/)] \
 7 Apr 2021
 
 <!-- ## Survey -->
