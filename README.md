@@ -37,20 +37,47 @@ arXiv 2023. [[Paper](link)] \
 
 <!-- **Title** \
 *author* \
-arXiv 2023. [[Paper](link)] [[Github](link)]\
-13 Feb 2023 -->
+arXiv 2023. [[Paper](link)] [[Github](link)] -->
 
 **MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis** \
 *Tianhong Li, Huiwen Chang, Shlok Kumar Mishra, Han Zhang, Dina Katabi, Dilip Krishnan* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2211.09117)]
 
+**Peco: Perceptual codebook for bert pre-training of vision transformers** \
+*Xiaoyi Dong, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu, Baining Guo* \
+AAAI 2023. [[Paper](https://arxiv.org/abs/2111.12710)]
+
+**High-Resolution Image Synthesis with Latent Diffusion Models** \
+*Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer*
+CVPR 2022  [[Paper](https://arxiv.org/abs/2112.10752)]
+
+**Vector-quantized Image Modeling with Improved VQGAN** \
+*Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu* \
+ICLR 2022. [[Paper](https://arxiv.org/abs/2110.04627)]
+
 **BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers** \
 *Zhiliang Peng, Li Dong, Hangbo Bao, Qixiang Ye, Furu Wei* \
 Arxiv 2022. [[Paper](https://arxiv.org/abs/2208.06366)]
 
+**BEiT: BERT Pre-Training of Image Transformers** \
+*Hangbo Bao, Li Dong, Songhao Piao, Furu Wei* \
+ICLR 2022. [[Paper](https://arxiv.org/abs/2106.08254)]
+
 **Zero-Shot Text-to-Image Generation** \
 *Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever* \
 ICML 2021. [[Paper](https://arxiv.org/abs/2102.12092)]
+
+**Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE**
+*Jialun Peng, Dong Liu, Songcen Xu, Houqiang Li*
+CVPR 2021. [[Paper](https://arxiv.org/abs/2103.10022)]
+
+**Predicting Video with VQVAE** \
+*Jacob Walker, Ali Razavi, Aäron van den Oord* \
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2103.01950)]
+
+**VideoGPT: Video Generation using VQ-VAE and Transformers** \
+*Wilson Yan, Yunzhi Zhang, Pieter Abbeel, Aravind Srinivas* \
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2104.10157)]
 
 **Taming Transformers for High-Resolution Image Synthesis** \
 *Patrick Esser, Robin Rombach, B. Ommer* \
