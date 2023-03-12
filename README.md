@@ -48,7 +48,7 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2211.09117)]
 AAAI 2023. [[Paper](https://arxiv.org/abs/2111.12710)]
 
 **High-Resolution Image Synthesis with Latent Diffusion Models** \
-*Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer*
+*Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer* \
 CVPR 2022  [[Paper](https://arxiv.org/abs/2112.10752)]
 
 **Vector-quantized Image Modeling with Improved VQGAN** \
@@ -68,7 +68,7 @@ ICLR 2022. [[Paper](https://arxiv.org/abs/2106.08254)]
 ICML 2021. [[Paper](https://arxiv.org/abs/2102.12092)]
 
 **Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE**
-*Jialun Peng, Dong Liu, Songcen Xu, Houqiang Li*
+*Jialun Peng, Dong Liu, Songcen Xu, Houqiang Li* \
 CVPR 2021. [[Paper](https://arxiv.org/abs/2103.10022)]
 
 **Predicting Video with VQVAE** \
