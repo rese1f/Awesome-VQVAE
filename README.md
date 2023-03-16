@@ -26,6 +26,11 @@ A collection of resources and papers on Vector Quantized Variational Autoencoder
 [[Website](https://ml.berkeley.edu/blog/posts/dalle2/)] \
 7 Apr 2021
 
+**VQ-VAE: A brief introduction** \
+*Jianlin Su* \
+[[Website](https://kexue.fm/archives/6760)] \
+24 June 2019
+
 <!-- ## Survey -->
 
 <!-- **Title** \
