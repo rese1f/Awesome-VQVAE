@@ -52,9 +52,9 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2211.09117)]
 *Xiaoyi Dong, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu, Baining Guo* \
 AAAI 2023. [[Paper](https://arxiv.org/abs/2111.12710)]
 
-**High-Resolution Image Synthesis with Latent Diffusion Models** \
-*Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer* \
-CVPR 2022  [[Paper](https://arxiv.org/abs/2112.10752)]
+**MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation** \
+*Chuanxia Zheng, Long Tung Vuong, Jianfei Cai, Dinh Phung* \
+NeurIPS 2022. [[Paper](https://arxiv.org/abs/2209.09002)]
 
 **Vector-quantized Image Modeling with Improved VQGAN** \
 *Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu* \
@@ -67,6 +67,18 @@ Arxiv 2022. [[Paper](https://arxiv.org/abs/2208.06366)]
 **BEiT: BERT Pre-Training of Image Transformers** \
 *Hangbo Bao, Li Dong, Songhao Piao, Furu Wei* \
 ICLR 2022. [[Paper](https://arxiv.org/abs/2106.08254)]
+
+**High-Resolution Image Synthesis with Latent Diffusion Models** \
+*Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer* \
+CVPR 2022  [[Paper](https://arxiv.org/abs/2112.10752)]
+
+**MaskGIT: Masked Generative Image Transformer** \
+*Huiwen Chang, Han Zhang, Lu Jiang, Ce Liu, William T. Freeman* \
+CVPR 2022. [[Paper](https://arxiv.org/abs/2202.04200)]
+
+**Autoregressive Image Generation using Residual Quantization** \
+*Doyup Lee, Chiheon Kim, Saehoon Kim, Minsu Cho, Wook-Shin Han* \
+CVPR 2022. [[Paper](https://arxiv.org/abs/2203.01941)]
 
 **Zero-Shot Text-to-Image Generation** \
 *Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever* \
