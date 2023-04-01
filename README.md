@@ -8,6 +8,9 @@ A collection of resources and papers on Vector Quantized Variational Autoencoder
 - [Awesome-VQVAE](#awesome-vqvae)
   - [Blog](#blog)
   - [Paper](#paper)
+    - [Image](#image)
+    - [Video](#video)
+    - [3D](#3d)
 
 ## Blog
 
@@ -44,6 +47,8 @@ arXiv 2023. [[Paper](link)] \
 *author* \
 arXiv 2023. [[Paper](link)] [[Github](link)] -->
 
+### Image
+
 **MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis** \
 *Tianhong Li, Huiwen Chang, Shlok Kumar Mishra, Han Zhang, Dina Katabi, Dilip Krishnan* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2211.09117)]
@@ -62,7 +67,7 @@ ICLR 2022. [[Paper](https://arxiv.org/abs/2110.04627)]
 
 **BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers** \
 *Zhiliang Peng, Li Dong, Hangbo Bao, Qixiang Ye, Furu Wei* \
-Arxiv 2022. [[Paper](https://arxiv.org/abs/2208.06366)]
+arXiv 2022. [[Paper](https://arxiv.org/abs/2208.06366)]
 
 **BEiT: BERT Pre-Training of Image Transformers** \
 *Hangbo Bao, Li Dong, Songhao Piao, Furu Wei* \
@@ -80,6 +85,14 @@ CVPR 2022. [[Paper](https://arxiv.org/abs/2202.04200)]
 *Doyup Lee, Chiheon Kim, Saehoon Kim, Minsu Cho, Wook-Shin Han* \
 CVPR 2022. [[Paper](https://arxiv.org/abs/2203.01941)]
 
+**CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers** \
+*Ming Ding, Wendi Zheng, Wenyi Hong, Jie Tang* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2204.14217)]
+
+**CogView: Mastering Text-to-Image Generation via Transformers** \
+*Ming Ding, Zhuoyi Yang, Wenyi Hong, Wendi Zheng, Chang Zhou, Da Yin, Junyang Lin, Xu Zou, Zhou Shao, Hongxia Yang, Jie Tang* \
+NeurIPS 2021. [[Paper](https://arxiv.org/abs/2105.13290)]
+
 **Zero-Shot Text-to-Image Generation** \
 *Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever* \
 ICML 2021. [[Paper](https://arxiv.org/abs/2102.12092)]
@@ -87,14 +100,6 @@ ICML 2021. [[Paper](https://arxiv.org/abs/2102.12092)]
 **Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE** \
 *Jialun Peng, Dong Liu, Songcen Xu, Houqiang Li* \
 CVPR 2021. [[Paper](https://arxiv.org/abs/2103.10022)]
-
-**Predicting Video with VQVAE** \
-*Jacob Walker, Ali Razavi, Aäron van den Oord* \
-Arxiv 2021. [[Paper](https://arxiv.org/abs/2103.01950)]
-
-**VideoGPT: Video Generation using VQ-VAE and Transformers** \
-*Wilson Yan, Yunzhi Zhang, Pieter Abbeel, Aravind Srinivas* \
-Arxiv 2021. [[Paper](https://arxiv.org/abs/2104.10157)]
 
 **Taming Transformers for High-Resolution Image Synthesis** \
 *Patrick Esser, Robin Rombach, B. Ommer* \
@@ -111,3 +116,27 @@ ICML 2018. [[Paper](https://arxiv.org/abs/1802.04920)]
 **Neural Discrete Representation Learning** \
 *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu* \
 NeurIPS 2017. [[Paper](https://arxiv.org/abs/1711.00937)]
+
+### Video
+
+**CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \
+*Wenyi Hong, Ming Ding, Wendi Zheng, Xinghan Liu, Jie Tang* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2205.15868)]
+
+**Predicting Video with VQVAE** \
+*Jacob Walker, Ali Razavi, Aäron van den Oord* \
+arXiv 2021. [[Paper](https://arxiv.org/abs/2103.01950)]
+
+**VideoGPT: Video Generation using VQ-VAE and Transformers** \
+*Wilson Yan, Yunzhi Zhang, Pieter Abbeel, Aravind Srinivas* \
+arXiv 2021. [[Paper](https://arxiv.org/abs/2104.10157)]
+
+### 3D
+
+**SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation** \
+*Yen-Chi Cheng, Hsin-Ying Lee, Sergey Tulyakov, Alexander Schwing, Liangyan Gui* \
+CVPR 2023. [[Paper](https://arxiv.org/abs/2212.04493)]
+
+**AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation** \
+*Paritosh Mittal, Yen-Chi Cheng, Maneesh Singh, Shubham Tulsiani* \
+CVPR 2022. [[Paper](https://arxiv.org/abs/2203.09516)]
