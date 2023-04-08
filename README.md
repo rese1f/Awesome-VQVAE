@@ -77,6 +77,10 @@ ICLR 2022. [[Paper](https://arxiv.org/abs/2106.08254)]
 *Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer* \
 CVPR 2022  [[Paper](https://arxiv.org/abs/2112.10752)]
 
+**Vector Quantized Diffusion Model for Text-to-Image Synthesis** \
+*Shuyang Gu, Dong Chen, Jianmin Bao, Fang Wen, Bo Zhang, Dongdong Chen, Lu Yuan, Baining Guo* \
+CVPR 2022  [[Paper](https://arxiv.org/abs/2111.14822)]
+
 **MaskGIT: Masked Generative Image Transformer** \
 *Huiwen Chang, Han Zhang, Lu Jiang, Ce Liu, William T. Freeman* \
 CVPR 2022. [[Paper](https://arxiv.org/abs/2202.04200)]
@@ -84,6 +88,10 @@ CVPR 2022. [[Paper](https://arxiv.org/abs/2202.04200)]
 **Autoregressive Image Generation using Residual Quantization** \
 *Doyup Lee, Chiheon Kim, Saehoon Kim, Minsu Cho, Wook-Shin Han* \
 CVPR 2022. [[Paper](https://arxiv.org/abs/2203.01941)]
+
+**Improved Vector Quantized Diffusion Models** \
+*Zhicong Tang, Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2205.16007)]
 
 **CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers** \
 *Ming Ding, Wendi Zheng, Wenyi Hong, Jie Tang* \
@@ -122,6 +130,10 @@ NeurIPS 2017. [[Paper](https://arxiv.org/abs/1711.00937)]
 **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \
 *Wenyi Hong, Ming Ding, Wendi Zheng, Xinghan Liu, Jie Tang* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2205.15868)]
+
+**Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer** \
+*Songwei Ge, Thomas Hayes, Harry Yang, Xi Yin, Guan Pang, David Jacobs, Jia-Bin Huang, Devi Parikh* \
+ECCV 2022. [[Paper](https://arxiv.org/abs/2204.03638)]
 
 **Predicting Video with VQVAE** \
 *Jacob Walker, Ali Razavi, Aäron van den Oord* \
