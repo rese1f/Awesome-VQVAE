@@ -101,6 +101,10 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2205.16007)]
 *Ming Ding, Wendi Zheng, Wenyi Hong, Jie Tang* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2204.14217)]
 
+**DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder** \
+*Jie Shi, Chenfei Wu, Jian Liang, Xiang Liu, Nan Duan* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2206.00386)]
+
 **CogView: Mastering Text-to-Image Generation via Transformers** \
 *Ming Ding, Zhuoyi Yang, Wenyi Hong, Wendi Zheng, Chang Zhou, Da Yin, Junyang Lin, Xu Zou, Zhou Shao, Hongxia Yang, Jie Tang* \
 NeurIPS 2021. [[Paper](https://arxiv.org/abs/2105.13290)]
