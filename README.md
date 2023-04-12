@@ -139,6 +139,10 @@ NeurIPS 2017. [[Paper](https://arxiv.org/abs/1711.00937)]
 *Wenyi Hong, Ming Ding, Wendi Zheng, Xinghan Liu, Jie Tang* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2205.15868)]
 
+**MAGVIT: Masked Generative Video Transformer** \
+*Lijun Yu, Yong Cheng, Kihyuk Sohn, José Lezama, Han Zhang, Huiwen Chang, Alexander G. Hauptmann, Ming-Hsuan Yang, Yuan Hao, Irfan Essa, Lu Jiang* \
+CVPR 2023. [[Paper](https://arxiv.org/abs/2212.05199)]
+
 **Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer** \
 *Songwei Ge, Thomas Hayes, Harry Yang, Xi Yin, Guan Pang, David Jacobs, Jia-Bin Huang, Devi Parikh* \
 ECCV 2022. [[Paper](https://arxiv.org/abs/2204.03638)]
