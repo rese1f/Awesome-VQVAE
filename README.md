@@ -147,6 +147,10 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2212.05199)]
 *Songwei Ge, Thomas Hayes, Harry Yang, Xi Yin, Guan Pang, David Jacobs, Jia-Bin Huang, Devi Parikh* \
 ECCV 2022. [[Paper](https://arxiv.org/abs/2204.03638)]
 
+**Latent Video Transformer** \
+*Ruslan Rakhimov, Denis Volkhonskiy, Alexey Artemov, Denis Zorin, Evgeny Burnaev* \
+VISIGRAPP 2021. [[Paper](https://arxiv.org/abs/2006.10704)]
+
 **Predicting Video with VQVAE** \
 *Jacob Walker, Ali Razavi, Aäron van den Oord* \
 arXiv 2021. [[Paper](https://arxiv.org/abs/2103.01950)]
