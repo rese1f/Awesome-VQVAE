@@ -168,3 +168,15 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2212.04493)]
 **AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation** \
 *Paritosh Mittal, Yen-Chi Cheng, Maneesh Singh, Shubham Tulsiani* \
 CVPR 2022. [[Paper](https://arxiv.org/abs/2203.09516)]
+
+### Human Pose
+
+**Human Pose as Compositional Tokens** \
+*Zigang Geng, Chunyu Wang, Yixuan Wei, Ze Liu, Houqiang Li, Han Hu* \ 
+CVPR 2023. [[Paper](https://arxiv.org/abs/2303.11638)]
+
+**Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation** \ 
+*Pan Xie, Qipeng Zhang, Zexian Li, Hao Tang, Yao Du, Xiaohui Hu* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09141)]
+
+
