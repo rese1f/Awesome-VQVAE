@@ -172,7 +172,7 @@ CVPR 2022. [[Paper](https://arxiv.org/abs/2203.09516)]
 ### Human Pose
 
 **Human Pose as Compositional Tokens** \
-*Zigang Geng, Chunyu Wang, Yixuan Wei, Ze Liu, Houqiang Li, Han Hu* \ 
+*Zigang Geng, Chunyu Wang, Yixuan Wei, Ze Liu, Houqiang Li, Han Hu* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2303.11638)]
 
 **Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation** \ 
