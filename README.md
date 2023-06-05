@@ -175,7 +175,7 @@ CVPR 2022. [[Paper](https://arxiv.org/abs/2203.09516)]
 *Zigang Geng, Chunyu Wang, Yixuan Wei, Ze Liu, Houqiang Li, Han Hu* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2303.11638)]
 
-**Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation** \ 
+**Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation** \
 *Pan Xie, Qipeng Zhang, Zexian Li, Hao Tang, Yao Du, Xiaohui Hu* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09141)]
 
