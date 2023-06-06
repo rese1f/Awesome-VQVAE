@@ -49,6 +49,14 @@ arXiv 2023. [[Paper](link)] [[Github](link)] -->
 
 ### Image
 
+**Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization** \
+*Mengqi Huang, Zhendong Mao, Zhuowei Chen, Yongdong Zhang* \
+CVPR 2023 Highlight. [[Paper](https://arxiv.org/abs/2305.11718)]
+
+**Not All Image Regions Matter: Masked Vector Quantization for Autoregressive Image Generation** \
+*Mengqi Huang, Zhendong Mao, Quan Wang, Yongdong Zhang* \
+CVPR 2023. [[Paper](https://arxiv.org/abs/2305.13607)]
+
 **MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis** \
 *Tianhong Li, Huiwen Chang, Shlok Kumar Mishra, Han Zhang, Dina Katabi, Dilip Krishnan* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2211.09117)]
