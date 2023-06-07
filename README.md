@@ -65,7 +65,7 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2211.09117)]
 *Jiahui Zhang, Fangneng Zhan, Christian Theobalt, Shijian Lu* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2303.06424)]
 
-**Peco: Perceptual codebook for bert pre-training of vision transformers** \
+**Peco: Perceptual Codebook for Bert Pre-training of Vision Transformers** \
 *Xiaoyi Dong, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu, Baining Guo* \
 AAAI 2023. [[Paper](https://arxiv.org/abs/2111.12710)]
 
