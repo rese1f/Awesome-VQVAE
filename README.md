@@ -69,6 +69,10 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2303.06424)]
 *Xiaoyi Dong, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu, Baining Guo* \
 AAAI 2023. [[Paper](https://arxiv.org/abs/2111.12710)]
 
+**Designing a Better Asymmetric VQGAN for StableDiffusion** \
+*Zixin Zhu, Xuelu Feng, Dongdong Chen, Jianmin Bao, Le Wang, Yinpeng Chen, Lu Yuan, Gang Hua* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2306.04632)]
+
 **MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation** \
 *Chuanxia Zheng, Long Tung Vuong, Jianfei Cai, Dinh Phung* \
 NeurIPS 2022. [[Paper](https://arxiv.org/abs/2209.09002)]
