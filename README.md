@@ -105,6 +105,10 @@ CVPR 2022. [[Paper](https://arxiv.org/abs/2202.04200)]
 *Doyup Lee, Chiheon Kim, Saehoon Kim, Minsu Cho, Wook-Shin Han* \
 CVPR 2022. [[Paper](https://arxiv.org/abs/2203.01941)]
 
+**VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder** \
+*Yuchao Gu, Xintao Wang, Liangbin Xie, Chao Dong, Gen Li, Ying Shan, Ming-Ming Cheng* \
+ECCV 2022. [[Paper](https://arxiv.org/abs/2205.06803)]
+
 **Improved Vector Quantized Diffusion Models** \
 *Zhicong Tang, Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2205.16007)]
