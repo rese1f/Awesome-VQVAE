@@ -73,6 +73,14 @@ AAAI 2023. [[Paper](https://arxiv.org/abs/2111.12710)]
 *Zixin Zhu, Xuelu Feng, Dongdong Chen, Jianmin Bao, Le Wang, Yinpeng Chen, Lu Yuan, Gang Hua* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2306.04632)]
 
+**LLM Itself Can Read and Generate CXR Images** \
+*Suhyeon Lee, Won Jun Kim, Jong Chul Ye* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.11490)]
+
+**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs** \
+*Lijun Yu, Yong Cheng, Zhiruo Wang, Vivek Kumar, Wolfgang Macherey, Yanping Huang, David A. Ross, Irfan Essa, Yonatan Bisk, Ming-Hsuan Yang, Kevin Murphy, Alexander G. Hauptmann, Lu Jiang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2306.17842)]
+
 **MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation** \
 *Chuanxia Zheng, Long Tung Vuong, Jianfei Cai, Dinh Phung* \
 NeurIPS 2022. [[Paper](https://arxiv.org/abs/2209.09002)]
