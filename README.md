@@ -117,6 +117,10 @@ CVPR 2022. [[Paper](https://arxiv.org/abs/2203.01941)]
 *Yuchao Gu, Xintao Wang, Liangbin Xie, Chao Dong, Gen Li, Ying Shan, Ming-Ming Cheng* \
 ECCV 2022. [[Paper](https://arxiv.org/abs/2205.06803)]
 
+**Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks** \
+*Jiasen Lu, Christopher Clark, Rowan Zellers, Roozbeh Mottaghi, Aniruddha Kembhavi* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2206.08916)]
+
 **Improved Vector Quantized Diffusion Models** \
 *Zhicong Tang, Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2205.16007)]
