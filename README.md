@@ -81,6 +81,10 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.11490)]
 *Lijun Yu, Yong Cheng, Zhiruo Wang, Vivek Kumar, Wolfgang Macherey, Yanping Huang, David A. Ross, Irfan Essa, Yonatan Bisk, Ming-Hsuan Yang, Kevin Murphy, Alexander G. Hauptmann, Lu Jiang* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2306.17842)]
 
+**Scaling Laws for Generative Mixed-Modal Language Models** \
+*Armen Aghajanyan, Lili Yu, Alexis Conneau, Wei-Ning Hsu, Karen Hambardzumyan, Susan Zhang, Stephen Roller, Naman Goyal, Omer Levy, Luke Zettlemoyer* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2301.03728)]
+
 **MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation** \
 *Chuanxia Zheng, Long Tung Vuong, Jianfei Cai, Dinh Phung* \
 NeurIPS 2022. [[Paper](https://arxiv.org/abs/2209.09002)]
