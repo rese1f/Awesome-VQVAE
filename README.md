@@ -65,6 +65,10 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2211.09117)]
 *Jiahui Zhang, Fangneng Zhan, Christian Theobalt, Shijian Lu* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2303.06424)]
 
+**All in Tokens: Unifying Output Space of Visual Tasks via Soft Token** \
+*Jia Ning, Chen Li, Zheng Zhang, Zigang Geng, Qi Dai, Kun He, Han Hu* \
+ICCV 2023. [[Paper](https://arxiv.org/abs/2301.02229)]
+
 **StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model** \
 *Zipeng Xu, Enver Sangineto, Nicu Sebe* \
 ICCV 2023. [[Paper](https://arxiv.org/abs/2303.09268)]
