@@ -219,4 +219,8 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2303.11638)]
 *Pan Xie, Qipeng Zhang, Zexian Li, Hao Tang, Yao Du, Xiaohui Hu* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09141)]
 
+### Others
 
+**CityDreamer: Compositional Generative Model of Unbounded 3D Cities** \
+*Haozhe Xie, Zhaoxi Chen, Fangzhou Hong, Ziwei Liu* \
+arXiv 2023. [[Paper](http://arxiv.org/abs/2309.00610)]
