@@ -215,6 +215,14 @@ CVPR 2022. [[Paper](https://arxiv.org/abs/2203.09516)]
 *Zigang Geng, Chunyu Wang, Yixuan Wei, Ze Liu, Houqiang Li, Han Hu* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2303.11638)]
 
+**HumanTOMATO: Text-aligned Whole-body Motion Generation** \
+*Shunlin Lu, Ling-Hao Chen, Ailing Zeng, Jing Lin, Ruimao Zhang, Lei Zhang, Heung-Yeung Shum* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.12978)]
+
+**MoConVQ: Unified Physics-Based Motion Control via Scalable Discrete Representations** \
+*Heyuan Yao, Zhenhua Song, Yuyang Zhou, Tenglong Ao, Baoquan Chen, Libin Liu* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.10198)]
+
 **Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation** \
 *Pan Xie, Qipeng Zhang, Zexian Li, Hao Tang, Yao Du, Xiaohui Hu* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09141)]
