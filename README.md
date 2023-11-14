@@ -3,15 +3,16 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-A collection of resources and papers on Vector Quantized Variational Autoencoder (**VQ-VAE**) and its application
+A collection of resources and papers on Vector Quantized Variational Autoencoder (**VQ-VAE**) and its application.
 
-- [Awesome-VQVAE](#awesome-vqvae)
-  - [Blog](#blog)
-  - [Paper](#paper)
-    - [Image](#image)
-    - [Video](#video)
-    - [3D](#3d)
-
+- [Blog](#blog)
+- [Paper](#paper)
+   * [Image](#image)
+   * [Video](#video)
+   * [3D](#3d)
+   * [Human Pose](#human-pose)
+   * [Low-level Vision](#low-level-vision)
+   * [Others](#others)
 ## Blog
 
 <!-- **Title** \
@@ -226,6 +227,12 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2310.10198)]
 **Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation** \
 *Pan Xie, Qipeng Zhang, Zexian Li, Hao Tang, Yao Du, Xiaohui Hu* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09141)]
+
+### Low-level Vision
+
+**Adverse Weather Removal with Codebook Priors** \
+*Tian Ye, Sixiang Chen, Jinbin Bai, Jun Shi, Chenghao Xue, Jingxia Jiang, Junjie Yin, Erkang Chen, Yun Liu* \
+ICCV 2023. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.html)]
 
 ### Others
 
