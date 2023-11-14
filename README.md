@@ -176,13 +176,17 @@ NeurIPS 2017. [[Paper](https://arxiv.org/abs/1711.00937)]
 
 ### Video
 
-**CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \
-*Wenyi Hong, Ming Ding, Wendi Zheng, Xinghan Liu, Jie Tang* \
-ICLR 2023. [[Paper](https://arxiv.org/abs/2205.15868)]
+**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation** \
+*Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Agrim Gupta, Xiuye Gu, Alexander G. Hauptmann, Boqing Gong, Ming-Hsuan Yang, Irfan Essa, David A. Ross, Lu Jiang* \
+ICLR 2024. [[Paper](https://arxiv.org/abs/2310.05737)]
 
 **MAGVIT: Masked Generative Video Transformer** \
 *Lijun Yu, Yong Cheng, Kihyuk Sohn, José Lezama, Han Zhang, Huiwen Chang, Alexander G. Hauptmann, Ming-Hsuan Yang, Yuan Hao, Irfan Essa, Lu Jiang* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2212.05199)]
+
+**CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \
+*Wenyi Hong, Ming Ding, Wendi Zheng, Xinghan Liu, Jie Tang* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2205.15868)]
 
 **Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer** \
 *Songwei Ge, Thomas Hayes, Harry Yang, Xi Yin, Guan Pang, David Jacobs, Jia-Bin Huang, Devi Parikh* \
