@@ -216,6 +216,10 @@ CVPR 2022. [[Paper](https://arxiv.org/abs/2203.09516)]
 
 ### Human Pose
 
+**MotionGPT: Human Motion as a Foreign Language** \
+*Biao Jiang, Xin Chen, Wen Liu, Jingyi Yu, Gang Yu, Tao Chen* \
+NeurIPS 2023. [[Paper](https://arxiv.org/abs/2306.14795)]
+
 **Human Pose as Compositional Tokens** \
 *Zigang Geng, Chunyu Wang, Yixuan Wei, Ze Liu, Houqiang Li, Han Hu* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2303.11638)]
