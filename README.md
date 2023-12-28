@@ -236,6 +236,10 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2310.12978)]
 *Heyuan Yao, Zhenhua Song, Yuyang Zhou, Tenglong Ao, Baoquan Chen, Libin Liu* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2310.10198)]
 
+**MoMask: Generative Masked Modeling of 3D Human Motions** \
+*Chuan Guo, Yuxuan Mu, Muhammad Gohar Javed, Sen Wang, Li Cheng* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2312.00063)]
+
 **Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign Pose Sequences Generation** \
 *Pan Xie, Qipeng Zhang, Zexian Li, Hao Tang, Yao Du, Xiaohui Hu* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09141)]
