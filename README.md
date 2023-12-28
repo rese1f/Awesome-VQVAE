@@ -176,6 +176,10 @@ NeurIPS 2017. [[Paper](https://arxiv.org/abs/1711.00937)]
 
 ### Video
 
+**VideoPoet: A Large Language Model for Zero-Shot Video Generation** \
+*Dan Kondratyuk, Lijun Yu, Xiuye Gu, José Lezama, Jonathan Huang, Rachel Hornung, Hartwig Adam, Hassan Akbari, Yair Alon, Vighnesh Birodkar, Yong Cheng, Ming-Chang Chiu, Josh Dillon, Irfan Essa, Agrim Gupta, Meera Hahn, Anja Hauth, David Hendon, Alonso Martinez, David Minnen, David Ross, Grant Schindler, Mikhail Sirotenko, Kihyuk Sohn, Krishna Somandepalli, Huisheng Wang, Jimmy Yan, Ming-Hsuan Yang, Xuan Yang, Bryan Seybold, Lu Jiang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2312.14125)]
+
 **Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation** \
 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Agrim Gupta, Xiuye Gu, Alexander G. Hauptmann, Boqing Gong, Ming-Hsuan Yang, Irfan Essa, David A. Ross, Lu Jiang* \
 ICLR 2024. [[Paper](https://arxiv.org/abs/2310.05737)]
