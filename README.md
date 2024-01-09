@@ -50,6 +50,10 @@ arXiv 2023. [[Paper](link)] [[Github](link)] -->
 
 ### Image
 
+**HQ-VAE: Hierarchical Discrete Representation Learning with Variational Bayes** \
+*Yuhta Takida, Yukara Ikemiya, Takashi Shibuya, Kazuki Shimada, Woosung Choi, Chieh-Hsin Lai, Naoki Murata, Toshimitsu Uesaka, Kengo Uchida, Wei-Hsiang Liao, Yuki Mitsufuji* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2401.00365)]
+
 **Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization** \
 *Mengqi Huang, Zhendong Mao, Zhuowei Chen, Yongdong Zhang* \
 CVPR 2023 Highlight. [[Paper](https://arxiv.org/abs/2305.11718)]
