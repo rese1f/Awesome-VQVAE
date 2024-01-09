@@ -98,6 +98,10 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2301.03728)]
 *Chuanxia Zheng, Long Tung Vuong, Jianfei Cai, Dinh Phung* \
 NeurIPS 2022. [[Paper](https://arxiv.org/abs/2209.09002)]
 
+**SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization** \
+*Yuhta Takida, Takashi Shibuya, WeiHsiang Liao, Chieh-Hsin Lai, Junki Ohmura, Toshimitsu Uesaka, Naoki Murata, Shusuke Takahashi, Toshiyuki Kumakura, Yuki Mitsufuji* \
+ICML 2022. [[Paper](https://arxiv.org/abs/2205.07547)]
+
 **Vector-quantized Image Modeling with Improved VQGAN** \
 *Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu* \
 ICLR 2022. [[Paper](https://arxiv.org/abs/2110.04627)]
