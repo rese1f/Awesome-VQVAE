@@ -13,7 +13,7 @@ A collection of resources and papers on Vector Quantized Variational Autoencoder
    * [Human Pose](#human-pose)
    * [Low-level Vision](#low-level-vision)
    * [Others](#others)
-   * [Speech & Audio](#speech&audio)
+   * [Speech & Audio](#speechaudio)
 ## Blog
 
 <!-- **Title** \
