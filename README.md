@@ -13,6 +13,7 @@ A collection of resources and papers on Vector Quantized Variational Autoencoder
    * [Human Pose](#human-pose)
    * [Low-level Vision](#low-level-vision)
    * [Others](#others)
+   * [Speech & Audio](#speech&audio)
 ## Blog
 
 <!-- **Title** \
@@ -264,7 +265,7 @@ ICCV 2023. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adver
 *Haozhe Xie, Zhaoxi Chen, Fangzhou Hong, Ziwei Liu* \
 arXiv 2023. [[Paper](http://arxiv.org/abs/2309.00610)]
 
-### Speech & Audio
+### Speech&Audio
 
 **SoundStream: An End-to-End Neural Audio Codec** \
 *Neil Zeghidour, Alejandro Luebs, Ahmed Omran, Jan Skoglund, Marco Tagliasacchi* \
