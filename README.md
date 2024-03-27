@@ -13,6 +13,7 @@ A collection of resources and papers on Vector Quantized Variational Autoencoder
    * [Human Pose](#human-pose)
    * [Low-level Vision](#low-level-vision)
    * [Others](#others)
+   * [Speech & Audio](#speechaudio)
 ## Blog
 
 <!-- **Title** \
@@ -263,3 +264,37 @@ ICCV 2023. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adver
 **CityDreamer: Compositional Generative Model of Unbounded 3D Cities** \
 *Haozhe Xie, Zhaoxi Chen, Fangzhou Hong, Ziwei Liu* \
 arXiv 2023. [[Paper](http://arxiv.org/abs/2309.00610)]
+
+### Speech&Audio
+
+**SoundStream: An End-to-End Neural Audio Codec** \
+*Neil Zeghidour, Alejandro Luebs, Ahmed Omran, Jan Skoglund, Marco Tagliasacchi* \
+arXiv 2021. [[Paper](https://arxiv.org/abs/2107.03312)]
+
+**High Fidelity Neural Audio Compression** \
+*Alexandre Défossez, Jade Copet, Gabriel Synnaeve, Yossi Adi* \
+TMLR 2023. [[Paper](https://arxiv.org/abs/2210.13438)]
+
+**AudioDec: An Open-source Streaming High-fidelity Neural Audio Codec** \
+*Yi-Chiao Wu, Israel D. Gebru, Dejan Marković, Alexander Richard* \
+ICASSP 2023. [[Paper](https://arxiv.org/abs/2305.16608)]
+
+**High-Fidelity Audio Compression with Improved RVQGAN** \
+*Rithesh Kumar, Prem Seetharaman, Alejandro Luebs, Ishaan Kumar, Kundan Kumar* \
+NeurIPS 2023. [[Paper](https://arxiv.org/abs/2306.06546)]
+
+**RepCodec: A Speech Representation Codec for Speech Tokenization** \
+*Dongchao Yang, Songxiang Liu, Rongjie Huang, Jinchuan Tian, Chao Weng, Yuexian Zou* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.02765)]
+
+**HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec** \
+*Zhichao Huang, Chutong Meng, Tom Ko* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2309.00169)]
+
+**SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models** \
+*Xin Zhang, Dong Zhang, Shimin Li, Yaqian Zhou, Xipeng Qiu* \
+ICLR 2024. [[Paper](https://arxiv.org/abs/2308.16692)]
+
+**NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models** \
+*Zeqian Ju, Yuancheng Wang, Kai Shen, Xu Tan, Detai Xin, Dongchao Yang, Yanqing Liu, Yichong Leng, Kaitao Song, Siliang Tang, Zhizheng Wu, Tao Qin, Xiang-Yang Li, Wei Ye, Shikun Zhang, Jiang Bian, Lei He, Jinyu Li, Sheng Zhao* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2403.03100)]
