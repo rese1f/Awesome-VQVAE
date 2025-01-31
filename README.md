@@ -298,3 +298,15 @@ ICLR 2024. [[Paper](https://arxiv.org/abs/2308.16692)]
 **NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models** \
 *Zeqian Ju, Yuancheng Wang, Kai Shen, Xu Tan, Detai Xin, Dongchao Yang, Yanqing Liu, Yichong Leng, Kaitao Song, Siliang Tang, Zhizheng Wu, Tao Qin, Xiang-Yang Li, Wei Ye, Shikun Zhang, Jiang Bian, Lei He, Jinyu Li, Sheng Zhao* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2403.03100)]
+
+
+If you find this repo useful, please consider cite us, many thanks!
+
+```
+@misc{2023awesomevqvae,
+    title={A collection of resources and papers on VQ-VAE and its application},
+    author={Wenhao CHai},
+    howpublished = {\url{https://github.com/rese1f/Awesome-VQVAE}},
+    year={2023}
+}
+```
